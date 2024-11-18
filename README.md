@@ -1,4 +1,4 @@
-## Repository for Assignments and Projects
+## $$\color{blue}\text{Repository for Assignments and Projects}$$
 
 # Computational Mathematics for Data Science
 
