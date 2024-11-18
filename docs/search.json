@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Computational Mathematics for Data Science",
+    "section": "",
+    "text": "This website serves as a comprehensive testimony of the work completed during the first spell of my PhD coursework for the courses Computational Mathematics for Data Science and Machine Learning. The coursework focused on two major areas: Linear Algebra and Optimization, with applications in Machine Learning and Digital Image and Signal Processing."
+  },
+  {
+    "objectID": "index.html#about-the-coursework",
+    "href": "index.html#about-the-coursework",
+    "title": "Computational Mathematics for Data Science",
+    "section": "2 About the Coursework",
+    "text": "2 About the Coursework\nThe coursework laid a strong mathematical foundation and provided practical tools for solving complex computational problems. In addition to the course discourses, it included:\n\nAssignments: Covering a spectrum of topics from fundamental linear algebra to advanced optimization methods. Each assignment summarizes the core concepts and includes solutions to theoretical and computational problems using MATLAB. Optimization problems were solved using the CVX solver from Stanford Engineering.\nProjects:\n\nProject I: Analyzing tissue classification (benign vs. malignant) using statistical methods, classical machine learning algorithms, and unsupervised learning for prescriptive modeling.\nProject II: Exploring the applications of Singular Value Decomposition (SVD) in image compression, denoising, and forensic analysis."
+  },
+  {
+    "objectID": "index.html#contents",
+    "href": "index.html#contents",
+    "title": "Computational Mathematics for Data Science",
+    "section": "3 Contents",
+    "text": "3 Contents\n\nAssignments: Summarized conceptual reviews and problem-solving approaches for all the 83 assignments.\nProjects: In-depth documentation of the two projects demonstrating real-world applications.\n\nThis portfolio showcases not only my theoretical understanding but also the computational and analytical skills developed throughout this course.\n\nAcknowledgment: The CVX solver for MATLAB and the foundational work by Sadek provided significant insights for this research. All the pdf documents are created using \\(\\LaTeX\\) and this website is created with quarto."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This section showcases the two major projects completed as part of the Computational Mathematics for Data Science course. These projects demonstrate the application of concepts and tools learned during the coursework."
+  },
+  {
+    "objectID": "projects.html#project-i-benign-and-malignant-tissue-classification",
+    "href": "projects.html#project-i-benign-and-malignant-tissue-classification",
+    "title": "Projects",
+    "section": "2 Project I: Benign and Malignant Tissue Classification",
+    "text": "2 Project I: Benign and Malignant Tissue Classification\n\n2.1 Overview\n\nObjective: Classify benign and malignant tissue using statistical methods and classical machine learning algorithms.\nTools: MATLAB and CVX solver for implementing predictive and prescriptive models.\nHighlights:\n\nA statistical approach for feature selection.\nDevelopment of a predictive model using supervised learning.\nFormulation of a prescriptive model using unsupervised learning methods."
+  },
+  {
+    "objectID": "projects.html#project-ii-applications-of-singular-value-decomposition-svd",
+    "href": "projects.html#project-ii-applications-of-singular-value-decomposition-svd",
+    "title": "Projects",
+    "section": "3 Project II: Applications of Singular Value Decomposition (SVD)",
+    "text": "3 Project II: Applications of Singular Value Decomposition (SVD)\n\n3.1 Overview\n\nObjective: Explore the theoretical and practical utility of SVD in digital image processing.\nTechniques:\n\nImage Compression: Reducing image size while preserving quality.\nDenoising: Enhancing image clarity by removing noise.\nForensic Analysis: Extracting and analyzing hidden image details.\n\nReference: A partial replication of Sadek’s work, extending its applications.\nTools: MATLAB implementations and theoretical discussions.\n\n\n\n\n\n\n\n\n\nDigital version\n\n\n\nA digital version of this project is available at Project-2"
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "The assignments documented here reflect a comprehensive study of the concepts and tools taught in the course Computational Mathematics for Data Science. These include:\n\n\n\nLinear Algebra Fundamentals:\n\nMatrix operations, four fundamental subspaces, Matrix decompositions- CR, LU, QR, Spectral , SVD and PCA.\nSolving systems of linear equations.\nApplications in Machine Learning.\n\nAdvanced Topics in Optimization:\n\nConvex optimization and its applications.\nLagrange methods for optimization.\nApplications in computational data science."
+  },
+  {
+    "objectID": "assignments.html#overview",
+    "href": "assignments.html#overview",
+    "title": "Assignments",
+    "section": "",
+    "text": "Linear Algebra Fundamentals:\n\nMatrix operations, four fundamental subspaces, Matrix decompositions- CR, LU, QR, Spectral , SVD and PCA.\nSolving systems of linear equations.\nApplications in Machine Learning.\n\nAdvanced Topics in Optimization:\n\nConvex optimization and its applications.\nLagrange methods for optimization.\nApplications in computational data science."
+  },
+  {
+    "objectID": "assignments.html#structure",
+    "href": "assignments.html#structure",
+    "title": "Assignments",
+    "section": "2 Structure",
+    "text": "2 Structure\nEach of the 83 assignments follows a consistent structure:\n\nConceptual Summary: A concise review of the topic’s theoretical framework.\nProblem Solving: Mathematical derivations and computational implementation using MATLAB.\nOptimization Techniques: For relevant topics, problems were solved using the CVX solver.\n\n\nFor convenience and continuity, each set of assignments is embedded for easy access:\n\n2.1 Assignment Set 1\nThis set contains assignment 1 to 10.\n\n\n\n\n\n2.2 Assignment Set 2\nThis set contains assignment 11 to 20.\n\n\n\n\n\n2.3 Assignment Set 3\nThis set contains assignment 21 to 30.\n\n\n\n\n\n2.4 Assignment Set 4\nThis set contains assignment 31 to 48.\n\n\n\n\n\n2.5 Assignment Set 5\nThis set contains assignment 49 to 64.\n\n\n\n\n\n2.6 Assignment Set 6\nThis set contains assignment 65 to 79.\n\n\n\n\n\n2.7 Assignment Set 7\nThis set contains assignment 80 to 83."
+  },
+  {
+    "objectID": "assignments.html#introduction",
+    "href": "assignments.html#introduction",
+    "title": "Assignments",
+    "section": "",
+    "text": "The assignments documented here reflect a comprehensive study of the concepts and tools taught in the course Computational Mathematics for Data Science. These include:\n\n\n\nLinear Algebra Fundamentals:\n\nMatrix operations, four fundamental subspaces, Matrix decompositions- CR, LU, QR, Spectral , SVD and PCA.\nSolving systems of linear equations.\nApplications in Machine Learning.\n\nAdvanced Topics in Optimization:\n\nConvex optimization and its applications.\nLagrange methods for optimization.\nApplications in computational data science."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-academic-portfolio",
+    "href": "index.html#welcome-to-my-academic-portfolio",
+    "title": "Computational Mathematics for Data Science",
+    "section": "",
+    "text": "This website serves as a comprehensive testimony of the work completed during the first spell of my PhD coursework for the courses Computational Mathematics for Data Science and Machine Learning. The coursework focused on two major areas: Linear Algebra and Optimization, with applications in Machine Learning and Digital Image and Signal Processing."
+  },
+  {
+    "objectID": "projects.html#introduction",
+    "href": "projects.html#introduction",
+    "title": "Projects",
+    "section": "",
+    "text": "This section showcases the two major projects completed as part of the Computational Mathematics for Data Science course. These projects demonstrate the application of concepts and tools learned during the coursework."
+  }
+]

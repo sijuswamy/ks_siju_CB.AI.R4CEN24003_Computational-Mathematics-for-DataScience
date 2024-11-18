@@ -1,0 +1,32 @@
+---
+title: "Computational Mathematics for Data Science"
+author: Siju K S, CB.AI.R4CEN24003
+---
+
+## Welcome to My Academic Portfolio
+
+This website serves as a comprehensive testimony of the work completed during the first spell of my PhD coursework for the courses *Computational Mathematics for Data Science* and *Machine Learning*. The coursework focused on two major areas: **Linear Algebra** and **Optimization**, with applications in **Machine Learning** and **Digital Image and Signal Processing**.
+
+## About the Coursework
+
+The coursework laid a strong mathematical foundation and provided practical tools for solving complex computational problems. In addition to the course discourses, it included:
+
+- **Assignments:** Covering a spectrum of topics from fundamental linear algebra to advanced optimization methods. Each assignment summarizes the core concepts and includes solutions to theoretical and computational problems using MATLAB. Optimization problems were solved using the **CVX solver** from Stanford Engineering.
+
+- **Projects:** 
+
+  - **Project I:** Analyzing tissue classification (benign vs. malignant) using statistical methods, classical machine learning algorithms, and unsupervised learning for prescriptive modeling.
+
+  - **Project II:** Exploring the applications of **Singular Value Decomposition (SVD)** in image compression, denoising, and forensic analysis.
+
+## Contents
+
+- **[Assignments](./assignments.html):** Summarized conceptual reviews and problem-solving approaches for all the 83 assignments.
+
+- **[Projects](./projects.html):** In-depth documentation of the two projects demonstrating real-world applications.
+
+This portfolio showcases not only my theoretical understanding but also the computational and analytical skills developed throughout this course.
+
+---
+
+**Acknowledgment:** The CVX solver for MATLAB and the foundational work by Sadek provided significant insights for this research. All the pdf documents are created using $\LaTeX$ and this website is created with quarto.
