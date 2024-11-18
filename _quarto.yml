@@ -6,7 +6,7 @@ website:
     pinned: true
     left:
       - icon: github
-        href: https://github.com/your-username/your-repo
+        href: https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience
       - text: "Home"
         href: index.qmd
       - text: "Assignments"
