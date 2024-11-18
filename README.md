@@ -41,7 +41,7 @@ You can find the projects in the **Projects** here:
 - [Project 1: Classification of Benign and Malignant Tissue](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Project_1_CB.AI.R4CEN24003.pdf)
   - This project involves using both statistical and machine learning algorithms to classify benign and malignant tissue samples. The **CVX solver** is used for optimization tasks within the project.
  
-  - Presentation is available at <>
+  - Presentation is available at <https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Project_1_CB.Ai.R4CEN24003_Presentation.pdf>
   
 - [Project 2: SVD Based Image Processing Applications](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Project_2_CB.AI.R4CEN24003.pdf)
   - This project explores the use of **Singular Value Decomposition (SVD)** for three important image processing techniques: **image compression**, **denoising**, and **forensics**. It is a partial independent replication of Sadek's work in the field.
