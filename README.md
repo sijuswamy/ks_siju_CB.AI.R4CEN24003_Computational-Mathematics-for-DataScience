@@ -22,13 +22,13 @@ The assignments cover a wide range of topics and are solved both mathematically 
 
 You can find the assignments in the **Assignments** here:
 
-- [Assignment Set 1](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_Set-1(1-10)_CB.AI.R4CEN24003.pdf)
-- [Assignment Set 2](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set2(11-20)_CB.AI.R4CEN24003.pdf)
-- [Assignment Set 3](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set3(21-30)_CB.AI.R4CEN24003.pdf)
-- [Assignment Set 4](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set4(31-48)_CB.AI.R4CEN24003.pdf)
-- [Assignment Set 5](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set5(49-64)_CB.AI.R4CEN24003.pdf)
-- [Assignment Set 6](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set6(65-79)_CB.AI.R4CEN24003.pdf)
-- [Assignment Set 7](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set7(80-83)_CB.AI.R4CEN24003.pdf)
+- [Assignment Set 1: 1-10](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_Set-1(1-10)_CB.AI.R4CEN24003.pdf)
+- [Assignment Set 2: 11-20](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set2(11-20)_CB.AI.R4CEN24003.pdf)
+- [Assignment Set 3: 21-30](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set3(21-30)_CB.AI.R4CEN24003.pdf)
+- [Assignment Set 4: 31-48](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set4(31-48)_CB.AI.R4CEN24003.pdf)
+- [Assignment Set 5: 49-64](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set5(49-64)_CB.AI.R4CEN24003.pdf)
+- [Assignment Set 6: 65-79](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set6(65-79)_CB.AI.R4CEN24003.pdf)
+- [Assignment Set 7: 80-83](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set7(80-83)_CB.AI.R4CEN24003.pdf)
 
 For a complete list of all assignments, check the **assets/pdfs** folder in the repository.
 
