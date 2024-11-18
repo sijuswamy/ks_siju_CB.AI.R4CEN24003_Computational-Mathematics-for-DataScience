@@ -24,6 +24,9 @@ This section showcases the two major projects completed as part of the *Computat
 
 <iframe src="assets/pdfs/Project_1_CB.AI.R4CEN24003.pdf" width="100%" height="600px"></iframe>
 
+Presentation of the project is available at:
+
+<iframe src="assets/pdfs/Project_1_CB.AI.R4CEN24003_Presentation.pdf" width="100%" height="600px"></iframe>
 
 ---
 
@@ -44,6 +47,10 @@ This section showcases the two major projects completed as part of the *Computat
 
 <iframe src="assets/pdfs/Project_2_CB.AI.R4CEN24003.pdf" width="100%" height="600px"></iframe>
 
+
+Presentation of the project is available at:
+
+<iframe src="assets/pdfs/Project_2_CB.AI.R4CEN24003_Presentation_small.pdf" width="100%" height="600px"></iframe>
 
 :::{.callout-note}
 
