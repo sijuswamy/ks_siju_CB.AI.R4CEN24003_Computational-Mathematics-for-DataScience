@@ -28,7 +28,7 @@ You can find the assignments in the **Assignments** folder:
 - [Assignment Set 4](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set4(31-48)_CB.AI.R4CEN24003.pdf)
 - [Assignment Set 5](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set5(49-64)_CB.AI.R4CEN24003.pdf)
 - [Assignment Set 6](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set6(65-79)_CB.AI.R4CEN24003.pdf)
-- [Assignment Set 7](assignments/assignment7.md)
+- [Assignment Set 7](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set7(80-83)_CB.AI.R4CEN24003.pdf)
 
 For a complete list of all assignments, check the **Assignments** folder in the repository.
 
@@ -38,7 +38,7 @@ The projects focus on applying the concepts learned in the course to real-world 
 
 You can find the projects in the **Projects** folder:
 
-- [Project 1: Classification of Benign and Malignant Tissue](projects/project1.md)
+- [Project 1: Classification of Benign and Malignant Tissue]()
   - This project involves using both statistical and machine learning algorithms to classify benign and malignant tissue samples. The **CVX solver** is used for optimization tasks within the project.
   
 - [Project 2: Digital Image Processing with Singular Value Decomposition](projects/project2.md)
