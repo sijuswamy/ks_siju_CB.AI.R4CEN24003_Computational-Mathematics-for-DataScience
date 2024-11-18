@@ -46,7 +46,7 @@ You can find the projects in the **Projects** here:
 - [Project 2: SVD Based Image Processing Applications](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Project_2_CB.AI.R4CEN24003.pdf)
   - This project explores the use of **Singular Value Decomposition (SVD)** for three important image processing techniques: **image compression**, **denoising**, and **forensics**. It is a partial independent replication of Sadek's work in the field.
  
-  - Presentation is available at [Presentation: Project 2](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Project_2_CB.Ai.R4CEN24003_Presentation_small.pdf)
+  - Presentation is available at [Presentation: Project 2](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Project_2_CB.Ai.R4CEN24003_Presentation.pdf)
 
  
 >A digital version of this project is available at: <https://sijuswamy.github.io/SVD_project/>.
