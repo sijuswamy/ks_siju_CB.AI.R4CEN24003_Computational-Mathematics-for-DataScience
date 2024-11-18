@@ -15,7 +15,7 @@ website:
         href: projects.qmd
     right:
       - icon: folder-symlink
-        href: https://bookdown.org/siju_swamy/Stat_Lab/
+        href: https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience
       - icon: linkedin
         href: https://www.linkedin.com/in/siju-swamy/
       - icon: envelope
