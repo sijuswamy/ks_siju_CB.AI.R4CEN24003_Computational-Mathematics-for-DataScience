@@ -18,14 +18,14 @@
     "href": "projects.html#project-i-benign-and-malignant-tissue-classification",
     "title": "Projects",
     "section": "2 Project I: Benign and Malignant Tissue Classification",
-    "text": "2 Project I: Benign and Malignant Tissue Classification\n\n2.1 Overview\n\nObjective: Classify benign and malignant tissue using statistical methods and classical machine learning algorithms.\nTools: MATLAB and CVX solver for implementing predictive and prescriptive models.\nHighlights:\n\nA statistical approach for feature selection.\nDevelopment of a predictive model using supervised learning.\nFormulation of a prescriptive model using unsupervised learning methods."
+    "text": "2 Project I: Benign and Malignant Tissue Classification\n\n2.1 Overview\n\nObjective: Classify benign and malignant tissue using statistical methods and classical machine learning algorithms.\nTools: MATLAB and CVX solver for implementing predictive and prescriptive models.\nHighlights:\n\nA statistical approach for feature selection.\nDevelopment of a predictive model using supervised learning.\nFormulation of a prescriptive model using unsupervised learning methods.\n\n\n\n\nPresentation of the project is available at:"
   },
   {
     "objectID": "projects.html#project-ii-applications-of-singular-value-decomposition-svd",
     "href": "projects.html#project-ii-applications-of-singular-value-decomposition-svd",
     "title": "Projects",
     "section": "3 Project II: Applications of Singular Value Decomposition (SVD)",
-    "text": "3 Project II: Applications of Singular Value Decomposition (SVD)\n\n3.1 Overview\n\nObjective: Explore the theoretical and practical utility of SVD in digital image processing.\nTechniques:\n\nImage Compression: Reducing image size while preserving quality.\nDenoising: Enhancing image clarity by removing noise.\nForensic Analysis: Extracting and analyzing hidden image details.\n\nReference: A partial replication of Sadek’s work, extending its applications.\nTools: MATLAB implementations and theoretical discussions.\n\n\n\n\n\n\n\n\n\nDigital version\n\n\n\nA digital version of this project is available at Project-2"
+    "text": "3 Project II: Applications of Singular Value Decomposition (SVD)\n\n3.1 Overview\n\nObjective: Explore the theoretical and practical utility of SVD in digital image processing.\nTechniques:\n\nImage Compression: Reducing image size while preserving quality.\nDenoising: Enhancing image clarity by removing noise.\nForensic Analysis: Extracting and analyzing hidden image details.\n\nReference: A partial replication of Sadek’s work, extending its applications.\nTools: MATLAB implementations and theoretical discussions.\n\n\n\nPresentation of the project is available at:\n\n\n\n\n\n\n\n\nDigital version\n\n\n\nA digital version of this project is available at Project-2"
   },
   {
     "objectID": "assignments.html",
