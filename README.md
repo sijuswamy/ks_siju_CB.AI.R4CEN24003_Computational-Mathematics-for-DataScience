@@ -30,7 +30,7 @@ You can find the assignments in the **Assignments** folder:
 - [Assignment Set 6](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set6(65-79)_CB.AI.R4CEN24003.pdf)
 - [Assignment Set 7](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set7(80-83)_CB.AI.R4CEN24003.pdf)
 
-For a complete list of all assignments, check the **Assignments** folder in the repository.
+For a complete list of all assignments, check the **assets/pdfs** folder in the repository.
 
 ## Projects
 
@@ -50,7 +50,7 @@ For further details and code implementation, visit the respective project files 
 
 - **MATLAB**: Used for solving optimization problems with the CVX solver.
 - **CVX Solver**: A MATLAB-based optimization solver used for modeling and solving convex optimization problems.
-- **Python**: Used for some machine learning tasks (if applicable).
+- **Python**: Used for SVD project.
 
 ## License
 
@@ -58,4 +58,17 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for visiting the **Computational Mathematics for Data Science** repository. Please feel free to explore the assignments and projects, and don't hesitate to reach out if you have any questions or suggestions!
+Thank you for visiting Course work repository. Please feel free to explore the assignments and projects, and don't hesitate to reach out if you have any questions or suggestions at <sijuswamy@gmail.com>!
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to the following individuals for their invaluable guidance and support throughout the **Computational Mathematics for Data Science** course and during the completion of this project:
+
+- **Dr. K.P. Soman**, Dean, ASAI: For his continuous encouragement, guidance, and support throughout the course.
+- **Dr. Vipin V**, Thesis Supervisor: For his mentorship, insightful feedback, and unwavering support in the successful completion of my coursework and projects.
+- **Dr. Soumya V**, Coordinator, PG Programmes: For her constant motivation, constructive feedback, and organization of the course activities.
+- The faculties of the Department of Computational Engineering and Networking (CEN) at *Amrita Vishwa Vidyapeetham*, Coimbatore: For their support and dedication to providing quality education in computational mathematics and machine learning.
+
+Thank you all for helping me develop the skills and knowledge that have been essential to my academic and professional growth.
+
+
