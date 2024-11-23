@@ -30,7 +30,7 @@ You can find the assignments in the **Assignments** here:
 - [Assignment Set 6: 65-79](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set6(65-79)_CB.AI.R4CEN24003.pdf)
 - [Assignment Set 7: 80-83](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/Assignment_set7(80-83)_CB.AI.R4CEN24003.pdf)
 
-For a complete list of all assignments, check the **assets/pdfs** folder in the repository.
+For a complete list of all assignments, kindly check the [Assignments and projects](https://github.com/sijuswamy/ks_siju_CB.AI.R4CEN24003_Computational-Mathematics-for-DataScience/blob/main/assets/pdfs/) folder in the repository.
 
 ## Projects
 
